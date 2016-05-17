@@ -1,0 +1,35 @@
+Alex Newman - Technical Leader
+
+	I want to build the best team with the most rewarding culture.
+
+OSS:
+	Apache Committer - Patches across the Hadoop ecosystem
+	Rust Lang - Across the ecosystem and one in the compiler
+
+	Current Projects:
+	http://github.com/posix4e/jsoncdc
+	http://github.com/posix4e/rpgffi
+
+	Old Projects:
+	https://github.com/cloud-software-foundation/c5
+
+Experience:
+Pink Ranger(Lead) Power Rangers - Planet Labs July 2015 - Presently,
+day to day, I manage our 5 Petabytes of images, and keep track of it in our 
+image catalog. My data team provides data services across planet. I've 
+coached and mentored across the organization, including gradually
+building up our training and recruitment across SWE. Started the book 
+club.
+
+Architect - WANDisco/ CEO - OhmData June 30, 2014 - 30 Month
+We sold the teach and team to a public english company WANDisco.  By merging 
+OhmData's c5 technology and WANDIsco's DCone we created NSHBase. A multi 
+master active active HBase compatible datastore.
+http://www.wandisco.com/press-releases/wandisco-acquires-san-francisco-based-big-data-company-ohmdata-inc
+Also started the book club.
+
+First Employeee - Drawn to Scale  - 15 Months - Reference; Ryan Rawson
+Lead Data Architect - OPower - 06/11 - 1/13 - Reference; Drew Hylbert
+Engineer - Cloudera 1/10 6/11 - Reference; Arvind Parhakar
+
+Languages: c, rust, python, java, c++, js, scala
