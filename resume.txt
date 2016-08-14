@@ -18,7 +18,7 @@ Recent Experience:
 	http://www.wandisco.com/press-releases/wandisco-acquires-san-francisco-based-big-data-company-ohmdata-inc
 	I wrote much of the code and was personally critical in our sales to EventBright, BrightRoll and Tagged at OhmData.
 	  - https://github.com/cloud-software-foundation/c5
-	As WanDISCO I oversaw the creation of NSHBase. A many master active-active fork of HBase.
+	At WanDISCO I oversaw the creation of NSHBase. A many master active-active fork of HBase.
 	
 	- First Employee - Drawn to Scale  - January 2012 - January 2013 - Reference; Ryan Rawson
 	- Lead Data Architect / Advisor - OPower - June 2011 - January 2013 - Reference; Drew Hylbert
