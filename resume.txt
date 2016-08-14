@@ -10,14 +10,15 @@ posix4e at gmail
 	
 Recent Experience:
 	- Technical Lead. Data Services (Pink Ranger of the Power Rangers) - Planet Labs August 2015 - Presently,
-	I manage 5 Petabytes of images and a many tens of thousands cloud worker cluster. 
+	I manage Petabytes of satellite scenes and a many tens of thousands cloud image crushing cluster. 
 	My data team provides image data publicly and across planet. I've coached, trained and mentored across 
 	the organization.
 	
 	- CEO OhmData on February 2013 - August, 2015 
 	http://www.wandisco.com/press-releases/wandisco-acquires-san-francisco-based-big-data-company-ohmdata-inc
-	I wrote much of the code and was personally critical in our sales to EventBright, BrightRoll and Tagged.
+	I wrote much of the code and was personally critical in our sales to EventBright, BrightRoll and Tagged at OhmData.
 	  - https://github.com/cloud-software-foundation/c5
+	As WanDISCO I oversaw the creation of NSHBase. A many master active-active fork of HBase.
 	
 	- First Employee - Drawn to Scale  - January 2012 - January 2013 - Reference; Ryan Rawson
 	- Lead Data Architect / Advisor - OPower - June 2011 - January 2013 - Reference; Drew Hylbert
