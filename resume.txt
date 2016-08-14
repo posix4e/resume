@@ -23,7 +23,7 @@ Recent Experience:
 	- First Employee - Drawn to Scale  - January 2012 - January 2013 - Reference; Ryan Rawson
 	- Lead Data Architect / Advisor - OPower - June 2011 - January 2013 - Reference; Drew Hylbert
 	- Engineer - Cloudera January 2010 - June 2011 - Reference; Arvind Parhakar
-	   - Apache committer - Code all around the Hadoop/HBase ecosystem.
+	- Apache committer - Code all around the Hadoop/HBase ecosystem.
 	- Engineer - Factset June 2007 - January 2010
 	
 Education:
