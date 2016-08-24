@@ -25,10 +25,15 @@ Recent Experience:
 	- Engineer - Cloudera January 2010 - June 2011 - Reference; Arvind Parhakar
 	- Apache committer - Code all around the Hadoop/HBase ecosystem.
 	- Engineer - Factset June 2007 - January 2010
-	
+        - Graduate Research Technician - Intel Half of 2006 and 2005
+        - Unix Administrator - Linux General Store - 1999 - 2000
+
 Education:
-	BS: Computer Science RPI
-	MS: Electrical Engineering (In Progress)
+	BS: Computer Science RPI (2000-2004)
+	MS: Electrical Engineering (2005-2007) (In Progress)
+
+  Experience:
+        - Co-Author (John Viega, Lurene Grenier and many people afterwords) CLASP - Paid for by Secure Software. 
 	
 Languages: c, rust, python, java, c++, js, scala
 Notes: Additional experience, more references and more detailed OSS history available on request.
