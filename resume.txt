@@ -35,5 +35,5 @@ Education:
   Experience:
         - Co-Author (John Viega, Lurene Grenier and many people afterwords) CLASP - Paid for by Secure Software. 
 	
-Languages: c, rust, python, java, c++, js, scala
+Languages: rust, python, java, c++, c, js, scala
 Notes: Additional experience, more references and more detailed OSS history available on request.
